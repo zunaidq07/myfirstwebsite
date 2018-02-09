@@ -1,0 +1,19 @@
+div {
+	width:500px;
+	margin:auto;
+	
+
+}
+body{
+	background: #e6e4e5;
+}
+.div2 {
+	width: 500px;
+	margin: auto;
+	text-align: center;
+	border-style: solid;
+	border-color: white;
+	padding: 2px;
+	margin-bottom: 4px;
+
+}
